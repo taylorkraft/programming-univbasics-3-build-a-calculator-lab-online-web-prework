@@ -18,9 +18,9 @@ return num1 * num2
 end
 
 def modulo(num1, num2)
-return Math.modulo num1 / num2
+return Math:modulo num1 / num2
 end
 
 def square_root(num)
-return Math.sqrt num2
+return Math.sqrt num
 end
